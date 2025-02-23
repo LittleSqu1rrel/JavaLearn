@@ -4,7 +4,7 @@ public class JavaStart {
         int age = 18;
         float money = 12.75f;
 
-
+// test
         System.out.println("Hello World");
         System.out.println("My name is " + name + " and I am " + age + " years old." + "I have " + money + " dollars.");
     }
